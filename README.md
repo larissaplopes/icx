@@ -23,7 +23,7 @@ A seguir, será fornecido algumas informações e orientações básicas a respe
 ## 2. Realizando "Fork" do repositório iCX:
 
    1. Logar na sua conta do Github;
-   2. Acessar o [repositório iCX]; 
+   2. Acessar o [repositório icx]; 
    3. Clicar no botão "Fork" localizado no canto superior direito da página;
    4. Aguardar o processo ser concluído;
    5. Pronto você será redirecionado para a cópia do repositório em seu GtiHub;
@@ -107,7 +107,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 [Git]: https://git-scm.com/
 [Github]: https://github.com
 [repositório iCX]: https://github.com/iinels-pes-001/icx
-[url iCX]: https://github.com/iinels-pes-001/iCX
+[url icx]: https://github.com/iinels-pes-001/iCX
 [Wiki]: https://github.com/iinels-pes-001/iCX/wiki
 [Configurar um *remote* para o *fork*]: https://help.github.com/en/articles/configuring-a-remote-for-a-fork
 [Sincronizar o fork]: https://help.github.com/en/articles/syncing-a-fork
