@@ -36,7 +36,7 @@ O VSCode é totalmente integrado com o Git e torna a ação extremamente simples
   1. Abra o Visual Studio Code.
   2. Tecle `Ctrl+Shift+P`, digite **"clone"** e tecle enter;
   3. Será solicitado a url do repositório iMC; 
-  4. Digite: `https://github.com/iinels-pes-001/iCX.git` e tecle enter;
+  4. Digite: `https://github.com/iinels-pes-001/icx.git` e tecle enter;
   5. Escolha uma pasta onde você deseja que o projeto seja baixado;
   6. Aguarde o processo ser concluído;
   7. Pronto, basta clicar em **"Open Repository"**;
@@ -45,7 +45,7 @@ O VSCode é totalmente integrado com o Git e torna a ação extremamente simples
 Caso deseje realizar a ação utilizando um terminal:
   1. Abra o Terminal;
   2. Navegue para o diretório que deseja baixar o projeto (Ex. `cd documents/git`);
-  3. Execute o comando `git clone https://github.com/iinels-pes-001/iCX.git`; 
+  3. Execute o comando `git clone https://github.com/iinels-pes-001/icx.git`; 
   4. Tecle enter, digite usuário e senha github caso solicitado; 
   5. Aguarde o processo ser concluído;
   6. Tudo Pronto, seu clone local foi criado;
@@ -54,7 +54,7 @@ Caso deseje realizar a ação utilizando um terminal:
 ## 4. Executando o projeto
 
 Para executar o módulo via terminal: 
-1. Acesse o diretório do arquivo que deseja executar (Ex: ... `cd git/imc`); 
+1. Acesse o diretório do arquivo que deseja executar (Ex: ... `cd git/icx`); 
 2. Execute o comando: `python3 main.py`
 
 ## 5. Sincronizando o "Fork" com repositório oficial:
