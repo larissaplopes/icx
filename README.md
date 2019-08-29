@@ -7,8 +7,6 @@ O **iCX** ~~é uma módulo python para o cálculo do Índice de Massa Corpórea 
 
 <img src="https://img.shields.io/static/v1.svg?style=flat-square&label=PYTHON&message=3.7.4&color=blue"/> <img src="https://img.shields.io/static/v1.svg?style=flat-square&label=VSCODE&message=1.37.1&color=green"/> <img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Git&message=2.21.0&color=inactive"/>
 
-<br>
-
 ## Primeiros Passos: 
 A seguir, será fornecido algumas informações e orientações básicas a respeito do iCX. Para maiores informações e os recursos por ele fornecidos, visite a [Wiki] do projeto.
 
