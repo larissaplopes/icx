@@ -3,7 +3,7 @@
 # iCX - Caixa Comportamental
 Repositório dedicado ao projeto **iCX** (tarefa "CAIXA COMPORTAMENTAL DO RAMON") da disciplina "Fundamentos de Programação e Engenharia de Software - 2019.2" do IIN-ELS.
 
-O **iCX** O iCX é uma aplicação python a ser executada em um modelo Raspberry (computador de placa única do tamanho reduzido) para automação de uma caixa comportamental posível de ser configurada remotamente.
+O **iCX** é uma aplicação python a ser executada em um modelo Raspberry (computador de placa única do tamanho reduzido) para automação de uma caixa comportamental posível de ser configurada remotamente.
 
 <img src="https://img.shields.io/static/v1.svg?style=flat-square&label=PYTHON&message=3.7.4&color=blue"/> <img src="https://img.shields.io/static/v1.svg?style=flat-square&label=VSCODE&message=1.37.1&color=green"/> <img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Git&message=2.21.0&color=inactive"/>
 
