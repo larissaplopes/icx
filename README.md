@@ -3,7 +3,7 @@
 # iCX - Caixa Comportamental
 Repositório dedicado ao projeto **iCX** (tarefa "CAIXA COMPORTAMENTAL DO RAMON") da disciplina "Fundamentos de Programação e Engenharia de Software - 2019.2" do IIN-ELS.
 
-O **iCX** ~~é uma módulo python para o cálculo do Índice de Massa Corpórea (IMC). O IMC é uma medida internacional usada para calcular se uma pessoa está no peso ideal.~~
+O **iCX** O iCX é uma aplicação python a ser executada em um modelo Raspberry (computador de placa única do tamanho reduzido) para automação de uma caixa comportamental posível de ser configurada remotamente.
 
 <img src="https://img.shields.io/static/v1.svg?style=flat-square&label=PYTHON&message=3.7.4&color=blue"/> <img src="https://img.shields.io/static/v1.svg?style=flat-square&label=VSCODE&message=1.37.1&color=green"/> <img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Git&message=2.21.0&color=inactive"/>
 
@@ -35,7 +35,7 @@ O VSCode é totalmente integrado com o Git e torna a ação extremamente simples
 
   1. Abra o Visual Studio Code.
   2. Tecle `Ctrl+Shift+P`, digite **"clone"** e tecle enter;
-  3. Será solicitado a url do repositório iMC; 
+  3. Será solicitado a url do repositório iCX; 
   4. Digite: `https://github.com/iinels-pes-001/icx.git` e tecle enter;
   5. Escolha uma pasta onde você deseja que o projeto seja baixado;
   6. Aguarde o processo ser concluído;
@@ -43,6 +43,7 @@ O VSCode é totalmente integrado com o Git e torna a ação extremamente simples
 
 **Utilizando Terminal**: 
 Caso deseje realizar a ação utilizando um terminal:
+
   1. Abra o Terminal;
   2. Navegue para o diretório que deseja baixar o projeto (Ex. `cd documents/git`);
   3. Execute o comando `git clone https://github.com/iinels-pes-001/icx.git`; 
