@@ -7,6 +7,8 @@ O **iCX** O iCX é uma aplicação python a ser executada em um modelo Raspberry
 
 <img src="https://img.shields.io/static/v1.svg?style=flat-square&label=PYTHON&message=3.7.4&color=blue"/> <img src="https://img.shields.io/static/v1.svg?style=flat-square&label=VSCODE&message=1.37.1&color=green"/> <img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Git&message=2.21.0&color=inactive"/>
 
+<b>
+
 ## Primeiros Passos: 
 A seguir, será fornecido algumas informações e orientações básicas a respeito do iCX. Para maiores informações e os recursos por ele fornecidos, visite a [Wiki] do projeto.
 
