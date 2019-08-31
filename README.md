@@ -14,15 +14,12 @@ A seguir, será fornecido algumas informações e orientações básicas a respe
 
 #### Descrição das branches do projeto
 
-`master`: *branch principal que reflete a versão estável atual do software (integra todas as demais)*
+- `master`: *branch principal que reflete a versão estável atual do software (integra todas as demais).*
+- `graphic-user-interface`: *dedicada ao módulo de interface gráfica do software.
+- `monitoring`: *dedicada ao módulo que implementa os métodos de monitoramento em vídeo da caixa comportamental.*
+- `training`: *dedicada ao módulo que implementa os métodos da rotina "training".*
+- `reactivation`: *dedicada ao módulo que implementa os métodos da rotina "reactivation".*
 
-`graphic-user-interface`: *dedicada ao módulo de interface gráfica do software*
-
-`monitoring`: *dedicada ao módulo que implementa os métodos de monitoramento em vídeo da caixa comportamental*
-
-`training`: *dedicada ao módulo que implementa os métodos da rotina "training"*
-
-`reactivation`: *dedicada ao módulo que implementa os métodos da rotina "reactivation"*
 
 
 ## 1. Recursos necessários
