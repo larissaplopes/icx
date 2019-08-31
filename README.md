@@ -12,6 +12,19 @@ O **iCX** é uma aplicação python a ser executada em um modelo Raspberry (comp
 ## Primeiros Passos: 
 A seguir, será fornecido algumas informações e orientações básicas a respeito do iCX. Para maiores informações e os recursos por ele fornecidos, visite a [Wiki] do projeto.
 
+#### Descrição das branches do projeto
+
+`master`: *branch principal que reflete a versão estável atual do software (integra todas as demais)*
+
+`graphic-user-interface`: *dedicada ao módulo de interface gráfica do software*
+
+`monitoring`: *dedicada ao módulo que implementa os métodos de monitoramento em vídeo da caixa comportamental*
+
+`training`: *dedicada ao módulo que implementa os métodos da rotina "training"*
+
+`reactivation`: *dedicada ao módulo que implementa os métodos da rotina "reactivation"*
+
+
 ## 1. Recursos necessários
 
 **IMPORTANTE:** Para contribuir com o **iCX**, algumas ações devem ser realizadas para que tudo funcione corretamente. Primeiro certifique-se que você possuí instalados: 
